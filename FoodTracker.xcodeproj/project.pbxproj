@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3C0C5B391E80785200C83E32 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0C5B381E80785200C83E32 /* RatingControl.swift */; };
+		3C0C5B3B1E80855C00C83E32 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C0C5B3A1E80855C00C83E32 /* Meal.swift */; };
 		3C6A44CC1E7FFA6900C18D2E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6A44CB1E7FFA6900C18D2E /* AppDelegate.swift */; };
 		3C6A44CE1E7FFA6900C18D2E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6A44CD1E7FFA6900C18D2E /* ViewController.swift */; };
 		3C6A44D11E7FFA6900C18D2E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C6A44CF1E7FFA6900C18D2E /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		3C0C5B381E80785200C83E32 /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RatingControl.swift; path = ../RatingControl.swift; sourceTree = "<group>"; };
+		3C0C5B3A1E80855C00C83E32 /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		3C6A44C81E7FFA6900C18D2E /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C6A44CB1E7FFA6900C18D2E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3C6A44CD1E7FFA6900C18D2E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				3C6A44CD1E7FFA6900C18D2E /* ViewController.swift */,
 				3C0C5B381E80785200C83E32 /* RatingControl.swift */,
 				3C6A44CF1E7FFA6900C18D2E /* Main.storyboard */,
+				3C0C5B3A1E80855C00C83E32 /* Meal.swift */,
 				3C6A44D21E7FFA6900C18D2E /* Assets.xcassets */,
 				3C6A44D41E7FFA6900C18D2E /* LaunchScreen.storyboard */,
 				3C6A44D71E7FFA6900C18D2E /* Info.plist */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C0C5B3B1E80855C00C83E32 /* Meal.swift in Sources */,
 				3C6A44CE1E7FFA6900C18D2E /* ViewController.swift in Sources */,
 				3C0C5B391E80785200C83E32 /* RatingControl.swift in Sources */,
 				3C6A44CC1E7FFA6900C18D2E /* AppDelegate.swift in Sources */,
